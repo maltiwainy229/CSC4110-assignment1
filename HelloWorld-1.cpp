@@ -1,4 +1,5 @@
 // Simple C++ program to display "Hello World"
+// Mohammad Altiwainy hs7247@wayne.edu
 // Header file for input output functions
 #include <iostream>
 
@@ -10,6 +11,7 @@ int main()
 {
     // prints hello world
     cout << "Testing git merge!";
+    cout << "Hello World!";
 
     return 0;
 }
